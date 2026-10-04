@@ -13,3 +13,6 @@ mobile/android/
 DerivedData/
 *.xcuserstate
 xcuserdata/
+
+# Backend e painel web possuem repositório próprio
+/backend/
