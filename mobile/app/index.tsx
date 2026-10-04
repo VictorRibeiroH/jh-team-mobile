@@ -7,7 +7,7 @@ export default function HomeScreen() {
   return (
     <Screen>
       <View style={styles.content}>
-        <AppText variant="caption">BASE DE DESENVOLVIMENTO</AppText>
+        <AppText variant="caption">BASE DE DESENVOLVIMENTOS</AppText>
         <AppText variant="title">JH Team</AppText>
         <View style={styles.card}>
           <AppText>Ambiente configurado com sucesso.</AppText>
