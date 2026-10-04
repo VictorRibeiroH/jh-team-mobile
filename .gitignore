@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+dist/
+build/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+*.tsbuildinfo
+mobile/ios/
+mobile/android/
+DerivedData/
+*.xcuserstate
+xcuserdata/
